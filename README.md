@@ -130,7 +130,7 @@ const engineer = {
     <td width="50%" valign="top">
       <h3>01 · GateVault</h3>
       <a href="https://github.com/SAIVINAY983/GateVault">
-        <img src="https://github.com/SAIVINAY983/GateVault/raw/main/docs/gatevault_website.jpg" width="100%" alt="GateVault Preview" />
+        <img src="./assets/projects/gatevault.jpg" width="100%" alt="GateVault Preview" />
       </a>
       <p>
         <strong>Smart Parcel Verification &amp; Handover Platform</strong> for gated communities featuring a zero-trust digital chain of custody.
@@ -151,6 +151,9 @@ const engineer = {
     </td>
     <td width="50%" valign="top">
       <h3>02 · ArchMind</h3>
+      <a href="https://github.com/SAIVINAY983/Archmind">
+        <img src="./assets/projects/archmind.png" width="100%" alt="ArchMind Preview" />
+      </a>
       <p>
         <strong>AI-Powered System Design &amp; Architecture Generator</strong> converting project requirements into interactive visual architecture workflows.
       </p>
@@ -171,6 +174,9 @@ const engineer = {
   <tr>
     <td width="50%" valign="top">
       <h3>03 · PulseRoute</h3>
+      <a href="https://github.com/SAIVINAY983/PulseRoute">
+        <img src="./assets/projects/pulseroute.jpg" width="100%" alt="PulseRoute Preview" />
+      </a>
       <p>
         <strong>AI-Based Multi-Ambulance Priority &amp; Traffic Recovery System</strong> simulating real-time emergency dispatch and corridor coordination.
       </p>
@@ -190,6 +196,9 @@ const engineer = {
     </td>
     <td width="50%" valign="top">
       <h3>04 · Grama Vidya</h3>
+      <a href="https://github.com/SAIVINAY983/Grama-vidya">
+        <img src="./assets/projects/grama-vidya.jpg" width="100%" alt="Grama Vidya Preview" />
+      </a>
       <p>
         <strong>Rural Education Learning Management System (LMS)</strong> built to deliver accessible, mobile-first digital classrooms.
       </p>
@@ -210,6 +219,9 @@ const engineer = {
   <tr>
     <td width="50%" valign="top">
       <h3>05 · Udyog Saarthi</h3>
+      <a href="https://github.com/SAIVINAY983/Udyog-Saarthi">
+        <img src="./assets/projects/udyog-saarthi.jpg" width="100%" alt="Udyog Saarthi Preview" />
+      </a>
       <p>
         <strong>Accessible Job-Coaching &amp; Inclusive Hiring PWA</strong> supporting adults preparing for opportunities under the 4% PWD reservation.
       </p>
@@ -228,6 +240,9 @@ const engineer = {
     </td>
     <td width="50%" valign="top">
       <h3>06 · CryptoPal Oracle Pro</h3>
+      <a href="https://github.com/SAIVINAY983/Crypto_tracker">
+        <img src="./assets/projects/cryptopal-oracle.png" width="100%" alt="CryptoPal Oracle Preview" />
+      </a>
       <p>
         <strong>AI-Powered Crypto Portfolio &amp; Sentiment Platform</strong> combining live asset tracking with NLP market intelligence.
       </p>

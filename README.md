@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:111827,100:0F172A&height=210&section=header&text=B%20SAI%20VINAY&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20Software%20Engineer&descSize=18&descAlignY=60&descColor=94A3B8&animation=fadeIn" width="100%" alt="B Sai Vinay Header Banner" />
+<img src="./assets/hero-banner.svg" width="100%" alt="B Sai Vinay Header Banner" />
 
 <br />
 
@@ -311,6 +311,6 @@ Open to **Software Engineering** and **Full Stack Developer** internships and pr
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:09090B&height=90&section=footer" width="100%" alt="Footer Banner" />
+<img src="./assets/footer-banner.svg" width="100%" alt="Footer Banner" />
 
 </div>

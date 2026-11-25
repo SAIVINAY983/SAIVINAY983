@@ -150,7 +150,27 @@ const engineer = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · PulseRoute</h3>
+      <h3>02 · ArchMind</h3>
+      <p>
+        <strong>AI-Powered System Design &amp; Architecture Generator</strong> converting project requirements into interactive visual architecture workflows.
+      </p>
+      <ul>
+        <li>Transforms natural-language system requirements into structured architecture diagrams</li>
+        <li>Interactive node-based canvas powered by React Flow for inspecting and refining components</li>
+        <li>Full-stack REST backend integrating OpenAI for automated architecture synthesis</li>
+      </ul>
+      <p>
+        <code>React</code> <code>Vite</code> <code>React Flow</code> <code>Node.js</code> <code>Express</code> <code>OpenAI</code>
+      </p>
+      <p>
+        <a href="https://github.com/SAIVINAY983/Archmind"><img src="https://img.shields.io/badge/Repository-18181B?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repo" /></a>
+        <a href="https://archmind-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · PulseRoute</h3>
       <p>
         <strong>AI-Based Multi-Ambulance Priority &amp; Traffic Recovery System</strong> simulating real-time emergency dispatch and corridor coordination.
       </p>
@@ -168,82 +188,60 @@ const engineer = {
         <a href="https://pulse-route-sage.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo" /></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>03 · InvestIQ</h3>
+      <h3>04 · Grama Vidya</h3>
       <p>
-        <strong>AI-Powered Investment Research Agent</strong> that automates company financial analysis, market news synthesis, and structured equity reports.
+        <strong>Rural Education Learning Management System (LMS)</strong> built to deliver accessible, mobile-first digital classrooms.
       </p>
       <ul>
-        <li>Parallel LangChain pipeline combining Yahoo Finance fundamentals with Tavily Web Search</li>
-        <li>Processes multi-source data via Google Gemini 1.5 Flash into structured JSON reports</li>
-        <li>Interactive gauges, research chat interface, and report export with fallback support</li>
+        <li>Role-based dashboards for Students, Teachers, and Administrators</li>
+        <li>Course &amp; lesson management supporting video uploads, YouTube embeds, and PDF notes</li>
+        <li>Student progress tracking, community discussion forum, and Gemini 2.5 Flash integration</li>
       </ul>
       <p>
-        <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express</code> <code>LangChain</code> <code>Gemini</code>
+        <code>React</code> <code>Tailwind CSS</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
       </p>
       <p>
-        <a href="https://github.com/SAIVINAY983/InvestIQ"><img src="https://img.shields.io/badge/Repository-18181B?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repo" /></a>
-        <a href="https://invest-iq-peach.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · FundsRoom</h3>
-      <p>
-        <strong>Full-Stack Mini ERP &amp; CRM Operations Portal</strong> for managing customers, SKU inventory, stock movements, and sales challans.
-      </p>
-      <ul>
-        <li>Role-based access control across <code>ADMIN</code>, <code>SALES</code>, <code>WAREHOUSE</code>, and <code>ACCOUNTS</code></li>
-        <li>Atomic Prisma <code>$transaction</code> stock deduction on challan confirmation with price/SKU snapshots</li>
-        <li>Live operational metrics, low-stock alerts, and Zod-validated REST APIs</li>
-      </ul>
-      <p>
-        <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Zod</code>
-      </p>
-      <p>
-        <a href="https://github.com/SAIVINAY983/Fund_room"><img src="https://img.shields.io/badge/Repository-18181B?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repo" /></a>
-        <a href="https://fund-room-fdas.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo" /></a>
+        <a href="https://github.com/SAIVINAY983/Grama-vidya"><img src="https://img.shields.io/badge/Repository-18181B?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repo" /></a>
+        <a href="https://grama-vidya.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>05 · Campus Chaos</h3>
-      <a href="https://github.com/SAIVINAY983/Campus-Chaos-">
-        <img src="https://github.com/SAIVINAY983/Campus-Chaos-/raw/main/assets/banner.jpg" width="100%" alt="Campus Chaos Banner" />
-      </a>
+      <h3>05 · Udyog Saarthi</h3>
       <p>
-        <strong>Real-Time Multiplayer Party Game</strong> for 2–8 players with instant room codes and synchronized three-round gameplay.
+        <strong>Accessible Job-Coaching &amp; Inclusive Hiring PWA</strong> supporting adults preparing for opportunities under the 4% PWD reservation.
       </p>
       <ul>
-        <li>Three distinct modes: Speed Quiz, Bluff or Bank (risk/reward), and Memory Blitz</li>
-        <li>Serverless room state via Netlify Functions and Netlify Blobs with match simulation tests</li>
+        <li>AI-powered resume builder with PDF export &amp; voice/text interview simulator</li>
+        <li>Accessible job board, guided learning hub, and high-contrast / simple UI modes</li>
+        <li>Employer hiring portal and trainer coaching analytics backed by Laravel 11 &amp; MongoDB Atlas</li>
       </ul>
       <p>
-        <code>React 18</code> <code>TypeScript</code> <code>Vite</code> <code>Netlify Functions</code> <code>Netlify Blobs</code>
+        <code>React</code> <code>Tailwind CSS</code> <code>Laravel 11</code> <code>Sanctum</code> <code>MongoDB Atlas</code> <code>Docker</code>
       </p>
       <p>
-        <a href="https://github.com/SAIVINAY983/Campus-Chaos-"><img src="https://img.shields.io/badge/Repository-18181B?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repo" /></a>
-        <a href="https://campus-chaos-last-player-standing.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=netlify&logoColor=38BDF8" alt="Live Demo" /></a>
+        <a href="https://github.com/SAIVINAY983/Udyog-Saarthi"><img src="https://img.shields.io/badge/Repository-18181B?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repo" /></a>
+        <a href="https://udyog-saarthi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>06 · HumanDocs</h3>
+      <h3>06 · CryptoPal Oracle Pro</h3>
       <p>
-        <strong>Collaborative Cloud Document Editor</strong> with real-time multi-user editing and an integrated AI writing assistant.
+        <strong>AI-Powered Crypto Portfolio &amp; Sentiment Platform</strong> combining live asset tracking with NLP market intelligence.
       </p>
       <ul>
-        <li>Live cursor tracking and active collaborator presence powered by Socket.IO</li>
-        <li>Google Gemini 2.5 Flash assistant for summarizing and refining document content</li>
-        <li>Rich-text editing with React Quill and Google OAuth authentication</li>
+        <li>Real-time portfolio valuation, 7-day sparklines, Buy/Sell history &amp; Net Worth charts</li>
+        <li>NLP news sentiment analysis (<code>sentiment</code>) generating Bullish/Bearish market signals</li>
+        <li>Multi-currency converter, JWT authentication, and NodeMailer email recovery</li>
       </ul>
       <p>
-        <code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Socket.IO</code> <code>MongoDB</code> <code>Gemini AI</code>
+        <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>Shadcn UI</code> <code>Express</code> <code>Prisma</code> <code>MongoDB</code>
       </p>
       <p>
-        <a href="https://github.com/SAIVINAY983/HumanDocs"><img src="https://img.shields.io/badge/Repository-18181B?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repo" /></a>
-        <a href="https://human-docs-drab.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo" /></a>
+        <a href="https://github.com/SAIVINAY983/Crypto_tracker"><img src="https://img.shields.io/badge/Repository-18181B?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repo" /></a>
+        <a href="https://crypto-tracker-three-amber.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo" /></a>
       </p>
     </td>
   </tr>
@@ -253,11 +251,12 @@ const engineer = {
 
 | Project | Overview | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **ArchMind** | AI-assisted system architecture diagramming platform with interactive node-based visual workflows. | `React` `Vite` `React Flow` `Node.js` `Express` `OpenAI` | [Repo](https://github.com/SAIVINAY983/Archmind) · [Live](https://archmind-gamma.vercel.app/) |
-| **Grama Vidya** | Rural education LMS with Student/Teacher/Admin roles, video & PDF lessons, progress tracking, and discussion forums. | `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT` | [Repo](https://github.com/SAIVINAY983/Grama-vidya) · [Live](https://grama-vidya.vercel.app/) |
-| **Udyog Saarthi** | Accessible PWA job-coaching & inclusive hiring platform (4% PWD reservation) with AI resume builder and voice interview simulator. | `React` `Tailwind CSS` `Laravel 11` `Sanctum` `MongoDB Atlas` | [Repo](https://github.com/SAIVINAY983/Udyog-Saarthi) · [Live](https://udyog-saarthi.vercel.app/) |
-| **CryptoPal Oracle Pro** | Crypto portfolio tracker with 7-day sparklines, NLP market sentiment analysis, multi-currency converter, and email recovery. | `React 18` `TypeScript` `Tailwind` `Shadcn UI` `Express` `Prisma` `MongoDB` | [Repo](https://github.com/SAIVINAY983/Crypto_tracker) · [Live](https://crypto-tracker-three-amber.vercel.app/) |
+| **InvestIQ** | AI investment research agent combining Yahoo Finance, Tavily Web Search &amp; Gemini 1.5 Flash into structured equity reports. | `React` `Tailwind CSS` `Node.js` `Express` `LangChain` `Gemini` | [Repo](https://github.com/SAIVINAY983/InvestIQ) · [Live](https://invest-iq-peach.vercel.app/) |
+| **FundsRoom** | Mini ERP &amp; CRM portal with role-based access (`ADMIN`, `SALES`, `WAREHOUSE`, `ACCOUNTS`) and atomic Prisma stock transactions. | `React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` | [Repo](https://github.com/SAIVINAY983/Fund_room) · [Live](https://fund-room-fdas.vercel.app/) |
+| **HumanDocs** | Real-time collaborative cloud document editor with Socket.IO live cursors and Gemini 2.5 Flash AI writing assistant. | `React` `Tailwind CSS` `Node.js` `Socket.IO` `MongoDB` `Gemini AI` | [Repo](https://github.com/SAIVINAY983/HumanDocs) · [Live](https://human-docs-drab.vercel.app/dashboard) |
+| **Campus Chaos** | Real-time multiplayer party game (2–8 players) featuring Speed Quiz, Bluff or Bank, and Memory Blitz modes. | `React 18` `TypeScript` `Vite` `Netlify Functions` `Netlify Blobs` | [Repo](https://github.com/SAIVINAY983/Campus-Chaos-) · [Live](https://campus-chaos-last-player-standing.netlify.app/) |
 | **BiteAI (Bit)** | Smart wellness companion featuring AI meal logging, animated calorie/mood analytics, workout tracking, and XP challenges. | `React` `Redux Toolkit` `Tailwind` `Framer Motion` `Express` `MongoDB` | [Repo](https://github.com/SAIVINAY983/bit) · [Live](https://bit-sigma-steel.vercel.app/) |
+| **Crypto Currency Chatbot** | JavaScript-based cryptocurrency chatbot companion (`crypto-currency-chatbot`). | `JavaScript` | [Repo](https://github.com/SAIVINAY983/crypto-currency-chatbot) |
 
 ---
 

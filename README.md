@@ -293,6 +293,14 @@ const engineer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAIVINAY983&bg_color=09090B&color=94A3B8&line=38BDF8&point=8B5CF6&area=true&hide_border=true" width="96%" alt="Contribution Activity Graph" />
 </p>
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAIVINAY983/SAIVINAY983/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAIVINAY983/SAIVINAY983/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/SAIVINAY983/SAIVINAY983/output/github-contribution-grid-snake-dark.svg" width="96%" />
+  </picture>
+</p>
+
 </div>
 
 ---
